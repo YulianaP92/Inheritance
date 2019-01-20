@@ -1,0 +1,7 @@
+D:\Projects\Inheritance_18_01\A-2-Inheritance\Advanced-Lesson-2-Inheritance\bin\Debug\Advanced-Lesson-2-Inheritance.exe.config
+D:\Projects\Inheritance_18_01\A-2-Inheritance\Advanced-Lesson-2-Inheritance\bin\Debug\Advanced-Lesson-2-Inheritance.exe
+D:\Projects\Inheritance_18_01\A-2-Inheritance\Advanced-Lesson-2-Inheritance\bin\Debug\Advanced-Lesson-2-Inheritance.pdb
+D:\Projects\Inheritance_18_01\A-2-Inheritance\Advanced-Lesson-2-Inheritance\obj\Debug\Advanced-Lesson-2-Inheritance.csprojAssemblyReference.cache
+D:\Projects\Inheritance_18_01\A-2-Inheritance\Advanced-Lesson-2-Inheritance\obj\Debug\Advanced-Lesson-2-Inheritance.csproj.CoreCompileInputs.cache
+D:\Projects\Inheritance_18_01\A-2-Inheritance\Advanced-Lesson-2-Inheritance\obj\Debug\Advanced-Lesson-2-Inheritance.exe
+D:\Projects\Inheritance_18_01\A-2-Inheritance\Advanced-Lesson-2-Inheritance\obj\Debug\Advanced-Lesson-2-Inheritance.pdb
